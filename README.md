@@ -12,6 +12,11 @@
 ### Live Demo
 
 - Netlify: https://nodemailer-form-by-farhad.netlify.app
+<p>Note: This live demo is not connected to the backend server, so email won't deliver.</p>
+
+
+### Preview
+![preview](preview.png)
 
 ### Getting Started
 
